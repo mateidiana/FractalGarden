@@ -1,0 +1,1 @@
+This repository contains a personal computer graphics project, using the Tao FreeGlut library. The user can build a garden in a 3D environment, each element being created by a recursive fractal function. The project also makes use of graph theory. For more info, read the documentation file "Dokumentation.docx".
