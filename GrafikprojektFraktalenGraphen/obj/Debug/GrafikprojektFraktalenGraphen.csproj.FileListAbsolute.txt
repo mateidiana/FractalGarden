@@ -1,0 +1,12 @@
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\bin\Debug\GrafikprojektFraktalenGraphen.exe.config
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\bin\Debug\GrafikprojektFraktalenGraphen.exe
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\bin\Debug\GrafikprojektFraktalenGraphen.pdb
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\obj\Debug\GrafikprojektFraktalenGraphen.csproj.CoreCompileInputs.cache
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\obj\Debug\GrafikprojektFraktalenGraphen.exe
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\obj\Debug\GrafikprojektFraktalenGraphen.pdb
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\bin\Debug\Tao.FreeGlut.dll
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\bin\Debug\Tao.OpenGl.dll
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\bin\Debug\Tao.FreeGlut.dll.config
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\obj\Debug\GrafikprojektFraktalenGraphen.csproj.CopyComplete
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\obj\Debug\GrafikprojektFraktalenGraphen.csproj.AssemblyReference.cache
+D:\Diana\11.Klasse\Grafikprojekt\GrafikprojektFraktalenGraphen\GrafikprojektFraktalenGraphen\obj\Debug\GrafikprojektFraktalenGraphen.csproj.SuggestedBindingRedirects.cache
